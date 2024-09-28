@@ -1,0 +1,7 @@
+{
+  "name": "NutriFun",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
